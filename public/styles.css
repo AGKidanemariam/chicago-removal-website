@@ -758,8 +758,6 @@ img {
     height: 60px;            /* Smaller logo on mobile */
   }
   
-  .nav-content {
-    height: 80px;            /* Shorter header on mobile */
   }
   .stats-grid {
     grid-template-columns: 1fr;
