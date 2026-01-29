@@ -74,8 +74,8 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 110px;            /* Taller header for bigger logo */
-  padding: 10px 0;
+  height: 80px;             /* ← Original height */
+}
 }
 }
 
@@ -85,7 +85,7 @@ img {
 }
 
 .logo img {
-  height: 90px;              /* Makes logo bigger */
+  height: 77px;              /* Makes logo bigger */
   width: auto;
   object-fit: contain;
   mix-blend-mode: multiply;  /* Removes black background */
