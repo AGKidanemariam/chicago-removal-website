@@ -40,7 +40,7 @@ chicago-removal-website/
 3. Commit and push: 
    ```bash
    git add .
-   git commit -m "Updated content"
+   git commit -m "Updated  content"
    git push
    ```
 4. Site auto-deploys!
