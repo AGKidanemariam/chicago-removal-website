@@ -8,4 +8,4 @@ bucket = "./public"
 [[d1_databases]]
 binding = "MY_BINDINGS"
 database_name = "MY-BINDINGS"
-database_id = "YOUR_DATABASE_ID_HERE"
+database_id = "CRC"
