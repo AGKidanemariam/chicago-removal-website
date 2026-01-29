@@ -83,8 +83,8 @@ img {
 }
 
 .logo img {
-  height: 75px;
-  width: auto;
+  height: 79px;
+  width: 150;
   object-fit: contain;
   mix-blend-mode: multiply;
   transition: transform 0.3s;
