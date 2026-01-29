@@ -74,9 +74,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 80px;             /* ← Original height */
-}
-}
+  height: 80px;
 }
 
 .logo {
@@ -85,16 +83,15 @@ img {
 }
 
 .logo img {
-  height: 77px;              /* Makes logo bigger */
+  height: 75px;
   width: auto;
   object-fit: contain;
-  mix-blend-mode: multiply;  /* Removes black background */
+  mix-blend-mode: multiply;
   transition: transform 0.3s;
 }
 
 .logo img:hover {
-  transform: scale(1.05);    /* Slight zoom on hover */
-}
+  transform: scale(1.05);
 }
 
 .nav-links {
