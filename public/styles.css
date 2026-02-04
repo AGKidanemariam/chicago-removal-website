@@ -6,8 +6,8 @@
 :root {
   --primary: #0d1829;
   --primary-light: #1a2b42;
-  --secondary: #DC143C;
-  --secondary-dark: #B01030;
+  --secondary: #e86a33;
+  --secondary-dark: #d25a28;
   --background: #fdf9f7;
   --foreground: #0d1829;
   --muted: #f2f4f6;
@@ -223,8 +223,8 @@ img {
   align-items: center;
   gap: 0.5rem;
   padding: 0.5rem 1rem;
-  background-color: rgba(220, 20, 60, 0.2);
-  border: 1px solid rgba(220, 20, 60, 0.3);
+  background-color: rgba(232, 106, 51, 0.2);
+  border: 1px solid rgba(232, 106, 51, 0.3);
   border-radius: 50px;
   color: var(--secondary);
   font-size: 0.875rem;
@@ -354,7 +354,7 @@ img {
   width: 64px;
   height: 64px;
   border-radius: 0.75rem;
-  background-color: rgba(220, 20, 60, 0.1);
+  background-color: rgba(232, 106, 51, 0.1);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -420,7 +420,7 @@ img {
   position: absolute;
   width: 256px;
   height: 256px;
-  background-color: rgba(220, 20, 60, 0.1);
+  background-color: rgba(232, 106, 51, 0.1);
   border-radius: 50%;
   filter: blur(80px);
 }
@@ -624,7 +624,7 @@ img {
 .form-select:focus {
   outline: none;
   border-color: var(--secondary);
-  box-shadow: 0 0 0 3px rgba(220, 20, 60, 0.1);
+  box-shadow: 0 0 0 3px rgba(232, 106, 51, 0.1);
 }
 
 .form-textarea {
@@ -656,7 +656,7 @@ img {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  background-color: rgba(220, 20, 60, 0.1);
+  background-color: rgba(232, 106, 51, 0.1);
   display: flex;
   align-items: center;
   justify-content: center;
