@@ -1,0 +1,11 @@
+name = "chicago-removal-company"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[site]
+bucket = "./public"
+
+[[d1_databases]]
+binding = "MY_BINDINGS"
+database_name = "MY-BINDINGS"
+database_id = "CRC"
